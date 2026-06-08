@@ -15,4 +15,4 @@ A Python application used to manage student attendance records.
 - Tkinter
 
 ## Author
-Your Name
+B.Maha Lakshmi
